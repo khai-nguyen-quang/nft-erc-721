@@ -9,8 +9,9 @@ npx hardhat
 npm install @openzeppelin/contracts
 npm install dotenv --save
 ``` 
-## Install MetaMask wallet
+## Create required accounts
 ```
+Install MetaMask wallet
 Create account on Alchemy
 Create dapp on Alchemy
 ```
