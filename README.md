@@ -1,2 +1,25 @@
-# nft-erc-721
-Learning NFT ERC-721
+# Sample Hardhat Project
+
+```Installation the required packages
+npm init -y
+npm install --save-dev hardhat
+npx hardhat
+
+npm install @openzeppelin/contracts
+npm install dotenv --save
+```
+
+```
+Install MetaMask wallet
+Create account on Alchemy
+Create dapp on Alchemy
+```
+
+```Create .env file
+API_URL = "https://eth-goerli.alchemyapi.io/v2/your-api-key"
+PRIVATE_KEY = "your-metamask-private-key"
+```
+
+```Deploy the contract
+npx hardhat run scripts/deploys --network goerli
+```
