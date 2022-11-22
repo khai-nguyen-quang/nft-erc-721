@@ -1,0 +1,50 @@
+[
+    {
+        "attributes" : 
+        [
+            {
+                "trait_type" : "landscape type",
+                "value" : "man-made"
+            }, 
+            {
+                "trait_type" : "location",
+                "value" : "Danang"
+            } 
+        ],
+        "description" : "The most famous bridge in Vietnam",
+        "image" : "https://gateway.pinata.cloud/ipfs/QmYBM4Y92ZHbQo4TyB7jjcQLBMVJbHDJzhjVtNzW3KmbK8",
+        "name" : "Golden Bridge"
+    },
+    {
+        "attributes" : 
+        [
+            {
+                "trait_type" : "landscape type",
+                "value" : "natural"
+            }, 
+            {
+                "trait_type" : "location",
+                "value" : "Quang Ninh"
+            } 
+        ],
+        "description" : "The most famous bay in Vietnam",
+        "image" : "ttps://gateway.pinata.cloud/ipfs/QmYh41mXVtaLiiS9Khe375x4ZxhUjxiae4TV44DLLJz8BH",
+        "name" : "Ha Long Bay"
+    },
+    {
+        "attributes" : 
+        [
+            {
+                "trait_type" : "landscape type",
+                "value" : "natural"
+            }, 
+            {
+                "trait_type" : "location",
+                "value" : "Cao Bang"
+            } 
+        ],
+        "description" : "The most famous valley in Vietnam",
+        "image" : "https://gateway.pinata.cloud/ipfs/QmTaiEirMLemV1uPRL6qtcYJj1kqy35Pky1R1MVNzw46fd",
+        "name" : "Ha Long Bay"
+    }
+]
